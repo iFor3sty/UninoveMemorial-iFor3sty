@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-between;  /* eixo principal */
+    align-items: center;           /* eixo cruzado */
+    gap: 20px;                       /* espaço entre itens */
+}
+
+.item {
+      text-align: center;
+      color: white;
+
+}
+
+.azul { background-color: #00274D;}
+.vermelho { background-color: #e8505b;}
